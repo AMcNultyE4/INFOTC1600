@@ -1,4 +1,4 @@
-# INFOTC1600
+# INFOTC1600 Markdown Challenge
 ## Fizz Buzz
 **Fizz Buzz Code** in _C#_
 
